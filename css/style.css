@@ -1,0 +1,36 @@
+
+body {
+  background-color: hotpink;
+}
+h1 {
+  background-color: lightblue;
+  color: lightgoldenrodyellow;
+  font-family: "Comic Sans MS",Times, serif;
+
+}
+h2 {
+  color: lightgoldenrodyellow;
+  font-family: "Comic Sans MS",Times, serif;
+
+}
+h3{
+  color: hotpink;
+  font-family: "Comic Sans MS",Times, serif;
+
+}
+
+
+h4{
+  color: hotpink;
+  font-family: "Comic Sans MS",Times, serif;
+}
+
+label{
+	color: lightgoldenrodyellow;
+}
+.x{
+	color: lightgoldenrodyellow;
+}
+#z
+{
+	font-family: "Comic Sans MS",Times, serif;
